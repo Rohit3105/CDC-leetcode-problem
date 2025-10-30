@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
