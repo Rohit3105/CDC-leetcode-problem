@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0029-divide-two-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0029-divide-two-integers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
