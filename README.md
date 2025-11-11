@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0029-divide-two-integers) |
+| [0137-single-number-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0137-single-number-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0137-single-number-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0137-single-number-ii) |
 | [0940-fruit-into-baskets](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
