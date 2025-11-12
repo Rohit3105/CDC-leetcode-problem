@@ -106,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
