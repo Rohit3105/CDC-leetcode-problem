@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0038-count-and-say) |
+| [0257-binary-tree-paths](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -154,9 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
