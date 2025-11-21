@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -112,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Number Theory
 |  |
 | ------- |
