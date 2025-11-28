@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
