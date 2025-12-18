@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0029-divide-two-integers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0739-daily-temperatures) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3531-count-covered-buildings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3531-count-covered-buildings) |
 ## Binary Search
