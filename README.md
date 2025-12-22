@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0554-brick-wall](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0739-daily-temperatures) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0554-brick-wall](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1016-subarray-sums-divisible-by-k) |
