@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1019-next-greater-node-in-linked-list) |
 | [1138-grumpy-bookstore-owner](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1138-grumpy-bookstore-owner) |
+| [1470-shuffle-the-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1929-concatenation-of-array) |
