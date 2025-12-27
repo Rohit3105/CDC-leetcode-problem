@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2206-divide-array-into-equal-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0485-max-consecutive-ones) |
 | [0554-brick-wall](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0940-fruit-into-baskets) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0645-set-mismatch) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0554-brick-wall](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
