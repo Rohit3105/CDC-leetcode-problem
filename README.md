@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0459-repeated-substring-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -364,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
