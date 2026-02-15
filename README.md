@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0213-house-robber-ii) |
+| [0799-champagne-tower](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0799-champagne-tower) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Database
 |  |
