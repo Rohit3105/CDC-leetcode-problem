@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0401-binary-watch) |
 ## Rolling Hash
 |  |
 | ------- |
