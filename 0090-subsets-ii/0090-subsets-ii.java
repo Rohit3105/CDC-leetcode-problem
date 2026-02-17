@@ -1,10 +1,8 @@
 class Solution {
-    List<List<Integer>> res = new ArrayList<>();
+    Set <List<Integer>> res = new HashSet<>();
     public void solve(int[] nums, int i, List<Integer> list){
         if(i==nums.length){
-            if(!res.contains(list)){
-                res.add(new ArrayList<>(list));
-            }
+         res.add(new ArrayList<>(list));
             return;
         }
         list.add(nums[i]);
@@ -16,6 +14,6 @@ class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
         solve(nums,0,new ArrayList<>());
-        return res;
+        return new ArrayList<>(res);
     }
 }
