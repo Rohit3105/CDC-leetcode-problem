@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Number Theory
 |  |
 | ------- |
