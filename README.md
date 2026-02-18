@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2206-divide-array-into-equal-pairs) |
