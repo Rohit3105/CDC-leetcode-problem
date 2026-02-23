@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2235-add-two-integers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2235-add-two-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2894-divisible-and-non-divisible-sums-difference) |
