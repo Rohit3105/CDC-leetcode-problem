@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0090-subsets-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0047-permutations-ii) |
 | [0389-find-the-difference](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0645-set-mismatch) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0078-subsets) |
