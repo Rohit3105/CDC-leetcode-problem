@@ -19,10 +19,7 @@ class Solution {
      char ss[] = Integer.toString(sum).toCharArray();
      Arrays.sort(s);
      Arrays.sort(ss);
-        if(Arrays.equals(s,ss)){
-            return true;
-        }else{
-            return false;
-        }
+    return Arrays.equals(s,ss);
+        
     }
 }
