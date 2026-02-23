@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -438,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0459-repeated-substring-pattern) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
