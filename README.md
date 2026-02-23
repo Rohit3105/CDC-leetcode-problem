@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0940-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0941-valid-mountain-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
