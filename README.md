@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0494-target-sum) |
 | [0554-brick-wall](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0784-letter-case-permutation) |
 ## Rolling Hash
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0494-target-sum) |
 | [0799-champagne-tower](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0799-champagne-tower) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Database
