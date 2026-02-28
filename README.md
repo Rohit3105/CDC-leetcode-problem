@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2235-add-two-integers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2235-add-two-integers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0784-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2206-divide-array-into-equal-pairs) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0043-multiply-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1441-build-an-array-with-stack-operations) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2288-count-operations-to-obtain-zero) |
