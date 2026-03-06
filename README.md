@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0043-multiply-strings) |
 | [0087-scramble-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0087-scramble-string) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0052-n-queens-ii) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0091-decode-ways) |
