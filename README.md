@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [0647-palindromic-substrings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0459-repeated-substring-pattern) |
+| [0647-palindromic-substrings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0647-palindromic-substrings) |
 | [0784-letter-case-permutation](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0784-letter-case-permutation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0647-palindromic-substrings) |
 | [0799-champagne-tower](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0799-champagne-tower) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Database
