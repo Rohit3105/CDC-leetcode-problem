@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0043-multiply-strings) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0087-scramble-string) |
