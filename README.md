@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0784-letter-case-permutation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0647-palindromic-substrings) |
 | [0799-champagne-tower](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0799-champagne-tower) |
+| [1143-longest-common-subsequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1143-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Database
 |  |
