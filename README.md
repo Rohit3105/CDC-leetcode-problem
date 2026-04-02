@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3531-count-covered-buildings) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1143-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Database
 |  |
 | ------- |
