@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0087-scramble-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0093-restore-ip-addresses) |
