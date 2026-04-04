@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1441-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1929-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
