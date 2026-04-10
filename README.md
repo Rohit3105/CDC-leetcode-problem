@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
 | ------- |
