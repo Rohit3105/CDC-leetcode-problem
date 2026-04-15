@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0647-palindromic-substrings) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
