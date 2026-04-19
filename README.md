@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1929-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2206-divide-array-into-equal-pairs) |
 | [2270-number-of-ways-to-split-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2270-number-of-ways-to-split-array) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0055-jump-game) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Counting Sort
