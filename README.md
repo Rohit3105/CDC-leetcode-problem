@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
