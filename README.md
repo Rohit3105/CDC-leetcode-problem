@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0647-palindromic-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2540-minimum-common-value](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2540-minimum-common-value) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3531-count-covered-buildings) |
