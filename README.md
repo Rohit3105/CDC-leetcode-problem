@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2540-minimum-common-value) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Prefix Sum
 |  |
 | ------- |
