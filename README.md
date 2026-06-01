@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2206-divide-array-into-equal-pairs) |
 | [2270-number-of-ways-to-split-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2270-number-of-ways-to-split-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0055-jump-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3075-maximize-happiness-of-selected-children) |
