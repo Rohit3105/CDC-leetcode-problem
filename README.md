@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1019-next-greater-node-in-linked-list) |
 | [1138-grumpy-bookstore-owner](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1138-grumpy-bookstore-owner) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1408-string-matching-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1408-string-matching-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1408-string-matching-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0459-repeated-substring-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1408-string-matching-in-an-array) |
 ## Recursion
 |  |
 | ------- |
