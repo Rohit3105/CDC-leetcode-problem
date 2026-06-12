@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3407-substring-matching-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3407-substring-matching-pattern) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1408-string-matching-in-an-array) |
+| [3407-substring-matching-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3407-substring-matching-pattern) |
 ## Recursion
 |  |
 | ------- |
