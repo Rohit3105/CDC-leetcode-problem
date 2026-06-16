@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3407-substring-matching-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3407-substring-matching-pattern) |
+| [3612-process-string-with-special-operations-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3612-process-string-with-special-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
