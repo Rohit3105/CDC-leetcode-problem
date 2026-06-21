@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0090-subsets-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0541-reverse-string-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0229-majority-element-ii) |
