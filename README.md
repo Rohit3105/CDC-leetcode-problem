@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0647-palindromic-substrings) |
