@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0189-rotate-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0058-length-of-last-word) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1408-string-matching-in-an-array) |
 | [3407-substring-matching-pattern](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3407-substring-matching-pattern) |
@@ -595,4 +598,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0278-first-bad-version) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
