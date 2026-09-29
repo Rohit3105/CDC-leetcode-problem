@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2540-minimum-common-value) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0494-target-sum) |
@@ -638,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0169-majority-element) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
