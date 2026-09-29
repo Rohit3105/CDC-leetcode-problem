@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0518-coin-change-ii) |
 | [0554-brick-wall](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0554-brick-wall](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0645-set-mismatch) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1019-next-greater-node-in-linked-list) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1019-next-greater-node-in-linked-list) |
