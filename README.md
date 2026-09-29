@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2643-row-with-maximum-ones](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2643-row-with-maximum-ones) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3074-apple-redistribution-into-boxes) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2643-row-with-maximum-ones](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2643-row-with-maximum-ones) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
 |  |
