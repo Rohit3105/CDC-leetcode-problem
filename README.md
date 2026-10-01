@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0097-interleaving-string) |
@@ -655,5 +657,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
