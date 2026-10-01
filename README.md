@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-fruit-into-baskets](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0940-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0944-delete-columns-to-make-sorted) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/1143-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rohit3105/CDC-leetcode-problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
